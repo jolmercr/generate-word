@@ -1,0 +1,5 @@
+# Dependencias del proyecto GenerarWord
+# Formato: nombre-paquete==version-exacta  o  nombre-paquete>=version-minima
+
+# === Lirería para la generación de documentos ===
+python-docx>=0.8.11
